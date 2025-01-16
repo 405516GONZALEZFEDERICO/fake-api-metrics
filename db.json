@@ -1,0 +1,48 @@
+{
+  "environmentalData": [
+    {
+      "country": "argentina",
+      "temperature": { "ok": 150, "medium": 20, "red": 3 },
+      "pressure": { "ok": 150, "medium": 20, "red": 3 },
+      "wind": { "ok": 150, "medium": 20, "red": 3 },
+      "levels": { "ok": 150, "medium": 20, "red": 3 },
+      "energy": { "ok": 150, "medium": 20, "red": 3 },
+      "tension": { "ok": 150, "medium": 20, "red": 3 },
+      "carbon_monoxide": { "ok": 150, "medium": 20, "red": 3 },
+      "other_gases": { "ok": 150, "medium": 20, "red": 3 }
+    },
+    {
+      "country": "uruguay",
+      "temperature": { "ok": 150, "medium": 20, "red": 3 },
+      "pressure": { "ok": 150, "medium": 20, "red": 3 },
+      "wind": { "ok": 150, "medium": 20, "red": 3 },
+      "levels": { "ok": 150, "medium": 20, "red": 3 },
+      "energy": { "ok": 150, "medium": 20, "red": 3 },
+      "tension": { "ok": 150, "medium": 20, "red": 3 },
+      "carbon_monoxide": { "ok": 150, "medium": 20, "red": 3 },
+      "other_gases": { "ok": 150, "medium": 20, "red": 3 }
+    },
+    {
+      "country": "brasil",
+      "temperature": { "ok": 150, "medium": 20, "red": 3 },
+      "pressure": { "ok": 150, "medium": 20, "red": 3 },
+      "wind": { "ok": 150, "medium": 20, "red": 3 },
+      "levels": { "ok": 150, "medium": 20, "red": 3 },
+      "energy": { "ok": 150, "medium": 20, "red": 3 },
+      "tension": { "ok": 150, "medium": 20, "red": 3 },
+      "carbon_monoxide": { "ok": 150, "medium": 20, "red": 3 },
+      "other_gases": { "ok": 150, "medium": 20, "red": 3 }
+    },
+    {
+      "country": "paraguay",
+      "temperature": { "ok": 150, "medium": 20, "red": 3 },
+      "pressure": { "ok": 150, "medium": 20, "red": 3 },
+      "wind": { "ok": 150, "medium": 20, "red": 3 },
+      "levels": { "ok": 150, "medium": 20, "red": 3 },
+      "energy": { "ok": 150, "medium": 20, "red": 3 },
+      "tension": { "ok": 150, "medium": 20, "red": 3 },
+      "carbon_monoxide": { "ok": 150, "medium": 20, "red": 3 },
+      "other_gases": { "ok": 150, "medium": 20, "red": 3 }
+    }
+  ]
+}
