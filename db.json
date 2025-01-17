@@ -1,7 +1,7 @@
 {
   "environmentalData": [
     {
-      "country": "argentina",
+      "country": "Argentina",
       "temperature": { "ok": 130, "medium": 25, "red": 5 },
       "pressure": { "ok": 140, "medium": 18, "red": 4 },
       "wind": { "ok": 120, "medium": 22, "red": 6 },
@@ -12,7 +12,7 @@
       "other_gases": { "ok": 125, "medium": 22, "red": 6 }
     },
     {
-      "country": "uruguay",
+      "country": "Uruguay",
       "temperature": { "ok": 145, "medium": 20, "red": 4 },
       "pressure": { "ok": 130, "medium": 22, "red": 3 },
       "wind": { "ok": 155, "medium": 18, "red": 2 },
@@ -23,7 +23,7 @@
       "other_gases": { "ok": 150, "medium": 19, "red": 5 }
     },
     {
-      "country": "brasil",
+      "country": "Brazil",
       "temperature": { "ok": 140, "medium": 26, "red": 4 },
       "pressure": { "ok": 135, "medium": 19, "red": 6 },
       "wind": { "ok": 125, "medium": 23, "red": 5 },
@@ -34,7 +34,7 @@
       "other_gases": { "ok": 130, "medium": 24, "red": 5 }
     },
     {
-      "country": "paraguay",
+      "country": "Paraguay",
       "temperature": { "ok": 150, "medium": 28, "red": 3 },
       "pressure": { "ok": 145, "medium": 20, "red": 4 },
       "wind": { "ok": 130, "medium": 22, "red": 5 },
