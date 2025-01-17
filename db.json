@@ -2,47 +2,47 @@
   "environmentalData": [
     {
       "country": "argentina",
-      "temperature": { "ok": 150, "medium": 20, "red": 3 },
-      "pressure": { "ok": 150, "medium": 20, "red": 3 },
-      "wind": { "ok": 150, "medium": 20, "red": 3 },
+      "temperature": { "ok": 130, "medium": 25, "red": 5 },
+      "pressure": { "ok": 140, "medium": 18, "red": 4 },
+      "wind": { "ok": 120, "medium": 22, "red": 6 },
       "levels": { "ok": 150, "medium": 20, "red": 3 },
-      "energy": { "ok": 150, "medium": 20, "red": 3 },
-      "tension": { "ok": 150, "medium": 20, "red": 3 },
-      "carbon_monoxide": { "ok": 150, "medium": 20, "red": 3 },
-      "other_gases": { "ok": 150, "medium": 20, "red": 3 }
+      "energy": { "ok": 110, "medium": 24, "red": 7 },
+      "tension": { "ok": 135, "medium": 19, "red": 4 },
+      "carbon_monoxide": { "ok": 140, "medium": 15, "red": 8 },
+      "other_gases": { "ok": 125, "medium": 22, "red": 6 }
     },
     {
       "country": "uruguay",
-      "temperature": { "ok": 150, "medium": 20, "red": 3 },
-      "pressure": { "ok": 150, "medium": 20, "red": 3 },
-      "wind": { "ok": 150, "medium": 20, "red": 3 },
-      "levels": { "ok": 150, "medium": 20, "red": 3 },
-      "energy": { "ok": 150, "medium": 20, "red": 3 },
-      "tension": { "ok": 150, "medium": 20, "red": 3 },
-      "carbon_monoxide": { "ok": 150, "medium": 20, "red": 3 },
-      "other_gases": { "ok": 150, "medium": 20, "red": 3 }
+      "temperature": { "ok": 145, "medium": 20, "red": 4 },
+      "pressure": { "ok": 130, "medium": 22, "red": 3 },
+      "wind": { "ok": 155, "medium": 18, "red": 2 },
+      "levels": { "ok": 140, "medium": 21, "red": 5 },
+      "energy": { "ok": 125, "medium": 23, "red": 6 },
+      "tension": { "ok": 135, "medium": 20, "red": 3 },
+      "carbon_monoxide": { "ok": 145, "medium": 17, "red": 4 },
+      "other_gases": { "ok": 150, "medium": 19, "red": 5 }
     },
     {
       "country": "brasil",
-      "temperature": { "ok": 150, "medium": 20, "red": 3 },
-      "pressure": { "ok": 150, "medium": 20, "red": 3 },
-      "wind": { "ok": 150, "medium": 20, "red": 3 },
+      "temperature": { "ok": 140, "medium": 26, "red": 4 },
+      "pressure": { "ok": 135, "medium": 19, "red": 6 },
+      "wind": { "ok": 125, "medium": 23, "red": 5 },
       "levels": { "ok": 150, "medium": 20, "red": 3 },
-      "energy": { "ok": 150, "medium": 20, "red": 3 },
-      "tension": { "ok": 150, "medium": 20, "red": 3 },
-      "carbon_monoxide": { "ok": 150, "medium": 20, "red": 3 },
-      "other_gases": { "ok": 150, "medium": 20, "red": 3 }
+      "energy": { "ok": 130, "medium": 25, "red": 7 },
+      "tension": { "ok": 140, "medium": 22, "red": 4 },
+      "carbon_monoxide": { "ok": 125, "medium": 20, "red": 6 },
+      "other_gases": { "ok": 130, "medium": 24, "red": 5 }
     },
     {
       "country": "paraguay",
-      "temperature": { "ok": 150, "medium": 20, "red": 3 },
-      "pressure": { "ok": 150, "medium": 20, "red": 3 },
-      "wind": { "ok": 150, "medium": 20, "red": 3 },
+      "temperature": { "ok": 150, "medium": 28, "red": 3 },
+      "pressure": { "ok": 145, "medium": 20, "red": 4 },
+      "wind": { "ok": 130, "medium": 22, "red": 5 },
       "levels": { "ok": 150, "medium": 20, "red": 3 },
-      "energy": { "ok": 150, "medium": 20, "red": 3 },
-      "tension": { "ok": 150, "medium": 20, "red": 3 },
-      "carbon_monoxide": { "ok": 150, "medium": 20, "red": 3 },
-      "other_gases": { "ok": 150, "medium": 20, "red": 3 }
+      "energy": { "ok": 135, "medium": 27, "red": 6 },
+      "tension": { "ok": 140, "medium": 21, "red": 5 },
+      "carbon_monoxide": { "ok": 120, "medium": 18, "red": 7 },
+      "other_gases": { "ok": 125, "medium": 23, "red": 4 }
     }
   ]
 }
